@@ -2,8 +2,6 @@
 #### I am GitHub Readme Generator's creator
 ![I am GitHub Readme Generator's creator](https://i.pinimg.com/564x/d2/26/67/d22667d5c183511890ffe2bb985ce22c.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills: Python / C++ / Rust / GO
 
 - 🔭 I’m currently working on personal projects 
